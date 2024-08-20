@@ -21,3 +21,7 @@ first-day-repo
 - **homework/**: Contains the instructions and template files for the assignment. You will edit the template files directly to complete the homework.
 - **README.md**: Is this file you are reading right now.
 - **class_notes.ipynb**: Is what you will edit directly to write notes during class.
+
+## GitHub Codespaces
+
+You will be able to view your repository, make changes, and save changes via a virtual computer using GitHub codespaces. On any repository, click the green `<> Code` button, select the Codespaces tab, and select the + symbol to create a codespace.

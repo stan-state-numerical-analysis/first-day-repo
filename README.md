@@ -1,6 +1,6 @@
 # First Day Repository
 
-Welcome to Numerical Analysis with Dr. De Silva! This repository will serve as your first step into a world that unites mathematics and computer programming. Below you will find information about the structure of this **repository**.
+Welcome to Numerical Analysis with Dr. De Silva! We will practice the basic functionality of GitHub repositories during class. Below you will find information about the structure of this **repository**.
 
 >💡 A **repository** is a central place where all the files and folders related to a specific project are stored and managed. It allows you to track changes, collaborate with others, and keep a history of your work.
 
